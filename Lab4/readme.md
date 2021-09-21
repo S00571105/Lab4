@@ -19,7 +19,7 @@ Assignment statements to assign objects to names. The target of an assignment st
 A function is a block of code that only runs when it is called. Python functions return a value using a return statement, if one is specified. A function can be called anywhere after the function has been declared. An example of a built if function would be abs() this is the most popular Python built in function the returns the absolute value of a number.
 
 ### Three data types
-Python data types are number,string, list, tuple,set and dictionary. Numbers, strings and tuples cannot be altered after created. However, list and dictionary may be modified.
+Python data types are integer, floating point numbers and strings. The integer (or int) data type indicates values that are whole numbers. Numbers with a decimal point, such as 3.14, are called floating-point numbers (or floats). Python programs can also have text values called strings.
 
 ## Graphics
 Methods for digitally synthesizing and manipulating visual content. The term often refers to the study of three-dimensional computer graphics, it also encompasses two-dimensional graphics and image processing.
